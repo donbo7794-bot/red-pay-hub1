@@ -19,8 +19,8 @@ const PaymentInstructions = () => {
   const [showFailure, setShowFailure] = useState(false);
 
   const amount = "6,700";
-  const accountNumber = "2043096639";
-  const bankName = "KUDA";
+  const accountNumber = "9049581126";
+  const bankName = "FAIRMONIE MFB";
   const accountName = "EZEKIEL AYEBANUA";
   const referenceId = `REF${Date.now()}`;
 
