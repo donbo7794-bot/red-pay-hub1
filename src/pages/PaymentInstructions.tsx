@@ -19,7 +19,7 @@ const PaymentInstructions = () => {
   const [showFailure, setShowFailure] = useState(false);
 
   const amount = "6,700";
-  const accountNumber = "0707356453";
+  const accountNumber = "1279468483";
   const bankName = "SMART CASH";
   const accountName = "EZEKIEL AYEBANUA";
   const referenceId = `REF${Date.now()}`;
